@@ -1,0 +1,11 @@
+idea,novelty,inevitability,value_unlock,feasibility,evidence,moat,weighted_score,notes
+Multi-Modal Grammar Compiler,10,9,10,8,8,9,10.0,"Unified compiler for cross-modal structured generation. Novel approach, inevitable with multi-modal models, massive value unlock. Technically feasible with proper architecture."
+LLM Memory Virtualization Protocol,9,9,9,8,7,8,9.4,"Standardized virtual memory management for agents. Strong inevitability as stateful agents scale. High technical feasibility building on Letta concepts."
+Constraint Programming DSL,9,8,9,9,6,8,9.2,"CSP integration with LLM generation. Novel approach with high feasibility. Evidence from LMQL/DSPy shows market readiness."
+LLM Function Composition Runtime,8,8,8,8,7,7,8.6,"Runtime optimization for function composition. Builds on DSPy/BAML success. Moderate technical challenges but clear value."
+Neural-Symbolic Bridge Compiler,10,7,9,6,5,8,8.4,"Bidirectional neural-symbolic translation. Highly novel but feasibility unclear. Long-term inevitability."
+LLM Operating System Kernel,9,8,8,7,6,9,8.3,"Microkernel architecture for LLM apps. Building on Letta concepts. High moat potential but complex implementation."
+Multi-Agent Coordination Protocol,8,9,8,8,7,7,8.2,"Standardized multi-agent protocols. High inevitability as multi-agent systems scale. Moderate technical complexity."
+LLM Circuit Breaker Framework,7,8,7,9,8,6,7.8,"Distributed circuit breaker for LLMs. High feasibility and evidence. Lower novelty but practical value."
+Prompt Version Control System,6,7,7,8,8,5,7.1,"Git for prompts with semantic diffing. Moderate novelty, high feasibility. Clear practical need but limited moat."
+LLM Performance Profiler,6,8,7,8,8,5,7.0,"Production profiler for LLM applications. Clear need and feasibility but limited novelty. Competitive market."

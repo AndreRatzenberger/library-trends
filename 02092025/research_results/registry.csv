@@ -1,0 +1,10 @@
+name,link,category,novelty,maturity,weirdness,notes
+Outlines,https://github.com/dottxt-ai/outlines,Structured/Guided Decoding,8,9,6,"Structured generation for LLMs - guarantees JSON/regex/grammar compliance during generation. Widely adopted by NVIDIA/Cohere/HuggingFace."
+Guidance,https://github.com/guidance-ai/guidance,DSLs / Declarative meta-layers,9,8,7,"Efficient programming paradigm for steering LLMs with Python-like syntax. Enables interleaved control and generation with CFG constraints."
+DSPy,https://github.com/stanfordnlp/dspy,Planning/compilers,9,8,8,"Programming rather than prompting framework. Compositional Python code with algorithms for optimizing prompts and weights."
+LMQL,https://github.com/eth-sri/lmql,DSLs / Declarative meta-layers,8,7,9,"Programming language for LLMs. Superset of Python with constraint-guided generation, advanced decoding algorithms."
+Instructor,https://github.com/567-labs/instructor,Typed I/O,8,9,5,"Structured outputs for LLMs built on Pydantic. Simple interface for reliable JSON extraction with validation, retries, streaming."
+Letta,https://github.com/letta-ai/letta,Memory/state,9,8,8,"Stateful agents with virtual memory management (formerly MemGPT). LLM OS with memory hierarchy, context engineering, multi-agent shared memory."
+BAML,https://github.com/BoundaryML/baml,DSLs / Declarative meta-layers,9,8,8,"Schema engineering DSL for AI workflows. SAP algorithm, model switching, streaming UIs, treats prompts as typed functions."
+TypeChat,https://github.com/microsoft/TypeChat,Typed I/O,7,7,6,"Natural language interfaces using types from Microsoft. Schema engineering over prompt engineering with discriminated unions."
+GraphRAG,https://github.com/microsoft/GraphRAG,Graph-aware retrieval/knowledge,8,8,7,"Knowledge graph memory structures for LLMs from Microsoft Research. Data pipeline for extracting structured data from unstructured text."
