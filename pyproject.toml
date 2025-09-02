@@ -1,0 +1,45 @@
+[project]
+name = "scout"
+version = "0.1.0"
+description = "Research scout utilities: persistent repo datastore, embeddings, and visual reports"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Research Scout" }]
+
+dependencies = [
+  "requests>=2.32.0",
+  "numpy>=1.24",
+  "pandas>=2.2",
+  "scikit-learn>=1.4",
+  "markdown>=3.6",
+  "beautifulsoup4>=4.12",
+  "plotly>=5.22",
+  "networkx>=3.2",
+]
+
+[project.optional-dependencies]
+embeddings = [
+  "sentence-transformers>=3.0.1",
+  "umap-learn>=0.5.6",
+]
+
+[project.scripts]
+save_repository = "scout.cli:main_save_repository"
+generate_visual_report = "scout.cli:main_generate_visual_report"
+save_idea = "scout.cli:main_save_idea"
+start_run = "scout.cli:main_start_run"
+save_research_log = "scout.cli:main_save_research_log"
+save_registry_item = "scout.cli:main_save_registry_item"
+save_scorecard_item = "scout.cli:main_save_scorecard_item"
+save_report = "scout.cli:main_save_report"
+save_portfolio_update = "scout.cli:main_save_portfolio_update"
+frontier_step = "scout.cli:main_frontier_step"
+run_export = "scout.cli:main_run_export"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.uv]
+dev-dependencies = []

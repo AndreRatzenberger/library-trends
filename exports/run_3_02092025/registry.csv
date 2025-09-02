@@ -1,0 +1,4 @@
+repo_url,name,link,inferred_primitives,novelty,maturity,weirdness,notes,meta
+https://github.com/lark-parser/lark,lark-parser/lark,https://github.com/lark-parser/lark,,8.0,9.0,6.0,"Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.",
+https://github.com/mideind/GreynirServer,mideind/GreynirServer,https://github.com/mideind/GreynirServer,,8.0,4.0,6.0,The greynir.is Icelandic natural language processing API and website.,
+https://github.com/klauer/blark,klauer/blark,https://github.com/klauer/blark,,8.0,4.0,8.0,Beckhoff TwinCAT ST (IEC 61131-3) code parsing in Python using Lark (Earley),
